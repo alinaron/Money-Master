@@ -1,0 +1,52 @@
+2940512425591
+Ionescu Mariana
+Contabil
+1
+RO94342RAIFB4
+670,Raiffeisen Bank,Straulesti
+2714.2
+1
+05/11/2019 09:31:01
+true
+Incasare salariu
+2200.0
+1980204245211
+Popa Ion
+Profesor
+3
+RO992414BRD
+140,BRD,Lujerului
+424.1
+2
+02/09/2019 19:37:10
+false
+Plata POS
+34.1
+09/10/2019 23:11:48
+true
+Decontare transport
+25.0
+RO424253ING
+380,ING,Piata Spaniei
+4973.299999999999
+3
+10/11/2019 20:29:13
+false
+Plata catre comercianti (Apanova)
+89.1
+10/11/2019 20:07:28
+false
+Retragere numerar
+250.0
+10/11/2019 12:19:52
+true
+Incasare salariu
+3500.0
+RO999900CEC
+400,CEC,Victoriei
+120.0
+1
+10/11/2019 22:35:00
+true
+Depunere numerar
+120.0

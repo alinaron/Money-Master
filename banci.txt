@@ -1,0 +1,20 @@
+100,BRD,Romana
+120,BRD,Mihai Bravu
+140,BRD,Lujerului
+200,BCR,Mihai Moxa
+250,BCR,Preciziei
+290,BCR,Caderea Bastiliei
+295,BCR,ASE
+300,ING,Romana
+380,ING,Piata Spaniei
+400,CEC,Victoriei
+410,CEC,Piata Unirii
+500,Piraeus Bank,Buzesti
+600,Raiffeisen Bank,Basarab
+660,Raiffeisen Bank,Gara de Nord
+670,Raiffeisen Bank,Straulesti
+800,Unicredit,Jiului
+880,Unicredit,Tineretului
+900,OTP Bank,Lujerului
+1000,Banca Transilvania,Regie
+1020,Banca Transilvania,Ferentari

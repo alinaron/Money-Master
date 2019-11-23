@@ -1,0 +1,144 @@
+2990103294002
+Pavel Maria-Ioana
+Student
+1
+RO10324PRBK0300
+500,Piraeus Bank,Buzesti
+1204.8
+1
+14/11/2019 19:20:52
+true
+Incasare bursa
+700.0
+2940512425591
+Ionescu Mariana
+Contabil
+1
+RO94342RAIFB4
+670,Raiffeisen Bank,Straulesti
+2736.0
+3
+13/11/2019 22:02:18
+false
+Plata catre comercianti (Distrigaz)
+98.2
+13/11/2019 22:11:18
+true
+Depunere numerar
+120.0
+05/11/2019 09:31:01
+true
+Incasare salariu
+2200.0
+1890413454232
+Anghel Marian
+Programator
+2
+RO32434INGB
+380,ING,Piata Spaniei
+14494.4
+3
+15/11/2019 22:25:44
+true
+Depunere numerar
+200.0
+29/10/2019 18:43:26
+true
+Decont transport
+70.0
+13/11/2019 23:01:09
+false
+Plata POS
+425.9
+RO1042149CECB12
+400,CEC,Victoriei
+1500.0
+1
+15/11/2019 22:32:20
+true
+Imprumut
+1500.0
+2901214019492
+Mares Cristina
+Lucrator comercial
+2
+ROBT90321LEI
+1020,Banca Transilvania,Ferentari
+1249.2
+2
+12/11/2019 15:12:25
+true
+Retur
+391.4
+10/11/2019 12:00:31
+true
+Incasare salariu
+1900.0
+RO2321UNI091
+880,Unicredit,Tineretului
+440.90000000000003
+3
+15/11/2019 23:13:50
+false
+Plata catre comercianti (Vodafone)
+47.2
+15/11/2019 23:13:27
+true
+Depunere numerar
+300.0
+30/10/2019 19:57:39
+false
+Retragere numerar
+4000.0
+1980204245211
+Popa Ion
+Profesor
+3
+RO999900CEC
+400,CEC,Victoriei
+120.0
+1
+10/11/2019 22:35:00
+true
+Depunere numerar
+120.0
+RO424253ING
+380,ING,Piata Spaniei
+4673.299999999999
+4
+10/11/2019 20:29:13
+false
+Plata catre comercianti (Apanova)
+89.1
+14/11/2019 23:30:30
+false
+Retragere numerar
+300.0
+10/11/2019 20:07:28
+false
+Retragere numerar
+250.0
+10/11/2019 12:19:52
+true
+Incasare salariu
+3500.0
+RO992414BRD
+140,BRD,Lujerului
+500.0
+4
+02/09/2019 19:37:10
+false
+Plata POS
+34.1
+09/10/2019 23:11:48
+true
+Decontare transport
+25.0
+16/11/2019 09:45:26
+true
+Imprumut
+100.0
+16/11/2019 10:09:56
+false
+Plata catre comercianti (Emag)
+24.1
